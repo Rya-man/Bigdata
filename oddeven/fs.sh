@@ -11,3 +11,9 @@ cat output1/*
 
 rm -rf output1
 # rm -rf output2
+#
+#
+# First parameter should be the package name 
+# Second parameter should be the dataset file
+#
+# example: ./fs.sh oddeven oe.txt
